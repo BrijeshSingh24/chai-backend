@@ -2,6 +2,8 @@
 
 This is a Project (Like Youtube) on backend with Javascript.
 
+ touch app.js constant.js index.js   for creating file using cmd mac
+
 
 
 # chai aur backend  series 
