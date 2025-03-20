@@ -6,6 +6,10 @@ This is a Project (Like Youtube) on backend with Javascript.
 
  mkdir controllers db middlewares models routes utills   for creating folders using cmd mac
 
+ npm i mongoose express dotenv
+
+ Database is always in another continent -  use try catch and async await (time taking always)
+
 
 
 # chai aur backend  series 
