@@ -12,6 +12,10 @@ This is a Project (Like Youtube) on backend with Javascript.
 
  npm i cookie-parser cors
 
+ npm i mongoose-aggregate-paginate-v2
+
+ npm i bcrypt jsonwebtoken
+
 
 
 # chai aur backend  series 
