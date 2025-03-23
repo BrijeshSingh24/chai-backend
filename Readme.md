@@ -16,6 +16,12 @@ This is a Project (Like Youtube) on backend with Javascript.
 
  npm i bcrypt jsonwebtoken
 
+ npm i cloudinary
+
+ npm i multer
+
+
+
 
 
 # chai aur backend  series 
