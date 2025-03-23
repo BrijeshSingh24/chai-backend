@@ -10,6 +10,8 @@ This is a Project (Like Youtube) on backend with Javascript.
 
  Database is always in another continent -  use try catch and async await (time taking always)
 
+ npm i cookie-parser cors
+
 
 
 # chai aur backend  series 
