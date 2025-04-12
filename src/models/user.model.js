@@ -18,7 +18,7 @@ const userSchema = new Schema({
         lowercase: true, // convert to lowercase
         trim: true,  // remove white spaces
     },
-    fullname: {
+    fullName: {
         type: String,    // data type
         required: true,  // required field
         trim: true,  // remove white spaces
